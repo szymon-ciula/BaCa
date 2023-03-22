@@ -1,0 +1,45 @@
+44
+ONP: xa=
+ONP: xab*=
+ONP: xab=*
+ONP: xabc**=
+ONP: xabc*-=
+ONP: xa~~~=
+ONP: xabc*-+
+ONP: ab+c/d-e*f+g/
+ONP: ab+a~a-+
+ONP: ( a,b,.).c;-,*
+ONP: xa~~bc*+=
+ONP: ta~x<b~<=
+ONP: ab+c/
+ONP: abc++def++g+++
+ONP: xabcde^^===
+ONP: ry+abc+d+==
+ONP: xca>cb<&!=
+ONP: x
+ONP: +
+ONP: +x
+ONP: x~
+ONP: x+
+ONP: +ac
+INF: x=~~a+b*c
+INF: t=~a<x<~b
+INF: ( a,+ b)/..[c3
+INF: x=a=b=c^d^e
+INF: (r+y)=a=(b+c)+d
+INF: x=!(c>a & c<b)
+INF: x=~~~a
+INF: i=x+(~~~~(a+b))
+INF: i=x+(~(a+b))
+INF: .).a.+.b.
+INF:    .a.+.b.(.).
+INF:    ,(,(,a,+,b,),   .
+INF:   ,(,(,a,+,b,),))   .
+INF: ab+
+INF: a+b
+INF: +ab
+INF: ~(a)
+INF: ~+a
+INF: a~b+
+INF: a(+)b
+INF: ((a)+b)

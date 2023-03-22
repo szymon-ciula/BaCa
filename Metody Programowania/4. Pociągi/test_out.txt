@@ -1,0 +1,37 @@
+Trains:
+Trains: T1
+Trains: T1
+Trains: T2 T1
+T1: 1 2 3
+T2: 6 5 4
+T1: 0 1 2 3 4
+T1: 4 3 2 1 0
+Trains: T2 T1
+Train T2 already exists
+Trains: T3 T2 T1
+T1: 4 3 2 1
+Train T3 already exists
+Trains: T4 T3 T2 T1
+T1: 3 2 1
+Train T5 does not exist
+Train T5 does not exist
+T3: 0
+T4: 4
+T1: 1 2 3
+T1: 1 2 3
+T2: 4 5 6
+T1: 1 2 3 4 5 6
+Train T2 does not exist
+Trains: T4 T3 T1
+Trains: T2 T4 T1
+Trains: T3 T2 T1
+Trains: T2 T1
+T2: 0 4
+T2: 4 0
+Train T3 does not exist
+Trains: T2
+Train T1 does not exist
+T2: 4 0 6 5 4 3 2 1
+Train T3 does not exist
+Train T1 does not exist
+Trains: T2

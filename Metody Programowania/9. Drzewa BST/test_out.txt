@@ -1,0 +1,54 @@
+ZESTAW 1
+PREORDER: 30 - A B, 20 - C D, 11 - E F, 5 - G H, 21 - I J, 22 - L M, 40 - N O, 35 - P R, 50 - S T
+INORDER: 5 - G H, 11 - E F, 20 - C D, 21 - I J, 22 - L M, 30 - A B, 35 - P R, 40 - N O, 50 - S T
+POSTORDER: 5 - G H, 11 - E F, 22 - L M, 21 - I J, 20 - C D, 35 - P R, 50 - S T, 40 - N O, 30 - A B
+HEIGHT: 3
+DEQUEMAX: 50 - S T
+DEQUEMAX: 5 - G H
+HEIGHT: 3
+NEXT 13: BRAK
+NEXT 11: 17 - S C
+NEXT 20: 21 - I J
+NEXT 30: 40 - N O
+NEXT 50: BRAK
+NEXT 17: 20 - C D
+PREV 13: BRAK
+PREV 11: BRAK
+PREV 20: 11 - E F
+PREV 30: 20 - C D
+PREV 50: 40 - N O
+PREV 17: 11 - E F
+DELETE 100: BRAK
+PREORDER: 30 - A B, 21 - I J, 11 - E F, 17 - S C, 22 - L M, 40 - N O, 35 - P R, 50 - A A
+POSTORDER: 17 - S C, 11 - E F, 22 - L M, 21 - I J, 35 - P R, 50 - A A, 40 - N O, 30 - A B
+INORDER: 11 - E F, 17 - S C, 21 - I J, 22 - L M, 30 - A B, 35 - P R, 40 - N O, 50 - A A
+PREORDER: 50 - S T, 35 - P R, 22 - L M, 21 - I J, 5 - G H, 11 - E F, 20 - C D, 30 - A B, 40 - N O
+POSTORDER: 30 - A B, 20 - C D, 11 - E F, 5 - G H, 21 - I J, 22 - L M, 40 - N O, 35 - P R, 50 - S T
+INORDER: 5 - G H, 11 - E F, 20 - C D, 30 - A B, 21 - I J, 22 - L M, 35 - P R, 40 - N O, 50 - S T
+ZESTAW 2
+PREORDER: 30 - A B, 20 - C D, 11 - E F, 5 - G H, 21 - I J, 22 - L M, 40 - N O, 35 - P R, 50 - S T
+INORDER: 5 - G H, 11 - E F, 20 - C D, 21 - I J, 22 - L M, 30 - A B, 35 - P R, 40 - N O, 50 - S T
+POSTORDER: 5 - G H, 11 - E F, 22 - L M, 21 - I J, 20 - C D, 35 - P R, 50 - S T, 40 - N O, 30 - A B
+HEIGHT: 3
+DEQUEMAX: 50 - S T
+DEQUEMAX: 5 - G H
+HEIGHT: 3
+NEXT 13: BRAK
+NEXT 11: 17 - S C
+NEXT 20: 21 - I J
+NEXT 30: 40 - N O
+NEXT 50: BRAK
+NEXT 17: 20 - C D
+PREV 13: BRAK
+PREV 11: BRAK
+PREV 20: 11 - E F
+PREV 30: 20 - C D
+PREV 50: 40 - N O
+PREV 17: 11 - E F
+DELETE 100: BRAK
+PREORDER: 30 - A B, 21 - I J, 11 - E F, 17 - S C, 22 - L M, 40 - N O, 35 - P R, 50 - A A
+POSTORDER: 17 - S C, 11 - E F, 22 - L M, 21 - I J, 35 - P R, 50 - A A, 40 - N O, 30 - A B
+INORDER: 11 - E F, 17 - S C, 21 - I J, 22 - L M, 30 - A B, 35 - P R, 40 - N O, 50 - A A
+PREORDER: 30 - A B, 20 - C D, 11 - E F, 5 - G H, 21 - I J, 22 - L M, 40 - N O, 35 - P R, 50 - S T
+POSTORDER: 5 - G H, 11 - E F, 22 - L M, 21 - I J, 20 - C D, 35 - P R, 50 - S T, 40 - N O, 30 - A B
+INORDER: 5 - G H, 11 - E F, 20 - C D, 21 - I J, 22 - L M, 30 - A B, 35 - P R, 40 - N O, 50 - S T

@@ -1,0 +1,62 @@
+1
+60
+Trains
+New T1 2
+Trains
+InsertFirst T1 1
+InsertLast T1 3
+Trains
+New T2 5
+InsertLast T2 4
+InsertFirst T2 6
+Trains
+Display T1
+Display T2
+InsertLast T1 4
+InsertFirst T1 0
+Display T1
+Reverse T1
+Display T1
+Trains
+DelLast T1 T2
+DelLast T1 T3
+Trains
+Display T1
+DelFirst T1 T3
+DelFirst T1 T4
+Trains
+Display T1
+Display T5
+Reverse T5
+Reverse T3
+Display T3
+Display T4
+Reverse T1
+Display T1
+Reverse T1
+Reverse T1
+Reverse T2
+Display T1
+Display T2
+Union T1 T2
+Display T1
+Display T2
+Reverse T1
+Trains
+DelFirst T3 T2
+Trains
+DelLast T4 T3
+Trains
+Union T2 T3
+Trains
+Display T2
+Reverse T2
+Display T2
+Union T2 T3
+Union T2 T1
+Trains
+Display T1
+Display T2
+Display T3
+Union T1 T2
+Trains

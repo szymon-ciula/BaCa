@@ -1,0 +1,119 @@
+0,00
+10,1
+9,2
+8,3
+7,4
+6,5
+5,6
+4,7
+3,8
+2,9
+1,10
+
+00,0
+1,10
+2,9
+3,8
+4,7
+5,6
+6,5
+7,4
+8,3
+9,2
+10,1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+0
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+Nr,Title,Year,UK Note,Drummer
+1,Sounding the Seventh Trumpet,2001,0,Jimmy
+2,Waking the Fallen,2003,35,James Owen Sullivan
+3,City of Evil,2005,63,The Reverend Tholomew Plague
+4,Avenged Sevenfold,2007,24,The Rev
+5,Nightmare,2010,5,Mike Portnoy
+6,Hail to the King,2013,1,Arin Ilejay
+7,The Stage,2016,13,Brooks Wackerman
+
+Nr,Title,Year,UK Note,Drummer
+7,The Stage,2016,13,Brooks Wackerman
+6,Hail to the King,2013,1,Arin Ilejay
+5,Nightmare,2010,5,Mike Portnoy
+4,Avenged Sevenfold,2007,24,The Rev
+3,City of Evil,2005,63,The Reverend Tholomew Plague
+2,Waking the Fallen,2003,35,James Owen Sullivan
+1,Sounding the Seventh Trumpet,2001,0,Jimmy
+
+Nr,Title,Year,UK Note,Drummer
+1,Sounding the Seventh Trumpet,2001,0,Jimmy
+2,Waking the Fallen,2003,35,James Owen Sullivan
+3,City of Evil,2005,63,The Reverend Tholomew Plague
+4,Avenged Sevenfold,2007,24,The Rev
+5,Nightmare,2010,5,Mike Portnoy
+6,Hail to the King,2013,1,Arin Ilejay
+7,The Stage,2016,13,Brooks Wackerman
+
+Nr,Title,Year,UK Note,Drummer
+7,The Stage,2016,13,Brooks Wackerman
+6,Hail to the King,2013,1,Arin Ilejay
+5,Nightmare,2010,5,Mike Portnoy
+4,Avenged Sevenfold,2007,24,The Rev
+3,City of Evil,2005,63,The Reverend Tholomew Plague
+2,Waking the Fallen,2003,35,James Owen Sullivan
+1,Sounding the Seventh Trumpet,2001,0,Jimmy
+
+Title,Nr,Year,UK Note,Drummer
+Avenged Sevenfold,4,2007,24,The Rev
+City of Evil,3,2005,63,The Reverend Tholomew Plague
+Hail to the King,6,2013,1,Arin Ilejay
+Nightmare,5,2010,5,Mike Portnoy
+Sounding the Seventh Trumpet,1,2001,0,Jimmy
+The Stage,7,2016,13,Brooks Wackerman
+Waking the Fallen,2,2003,35,James Owen Sullivan
+
+Year,Nr,Title,UK Note,Drummer
+2016,7,The Stage,13,Brooks Wackerman
+2013,6,Hail to the King,1,Arin Ilejay
+2010,5,Nightmare,5,Mike Portnoy
+2007,4,Avenged Sevenfold,24,The Rev
+2005,3,City of Evil,63,The Reverend Tholomew Plague
+2003,2,Waking the Fallen,35,James Owen Sullivan
+2001,1,Sounding the Seventh Trumpet,0,Jimmy
+
+UK Note,Nr,Title,Year,Drummer
+0,1,Sounding the Seventh Trumpet,2001,Jimmy
+1,6,Hail to the King,2013,Arin Ilejay
+5,5,Nightmare,2010,Mike Portnoy
+13,7,The Stage,2016,Brooks Wackerman
+24,4,Avenged Sevenfold,2007,The Rev
+35,2,Waking the Fallen,2003,James Owen Sullivan
+63,3,City of Evil,2005,The Reverend Tholomew Plague
+
+Drummer,Nr,Title,Year,UK Note
+The Reverend Tholomew Plague,3,City of Evil,2005,63
+The Rev,4,Avenged Sevenfold,2007,24
+Mike Portnoy,5,Nightmare,2010,5
+Jimmy,1,Sounding the Seventh Trumpet,2001,0
+James Owen Sullivan,2,Waking the Fallen,2003,35
+Brooks Wackerman,7,The Stage,2016,13
+Arin Ilejay,6,Hail to the King,2013,1

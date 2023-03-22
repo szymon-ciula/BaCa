@@ -1,0 +1,24 @@
+REC:  10 = 6 4
+ITER: 10 = 6 4
+REC:  10 = 1 2 3 4
+ITER: 10 = 1 2 3 4
+BRAK
+REC:  1 = 1
+ITER: 1 = 1
+REC:  1 = 1
+ITER: 1 = 1
+REC:  1 = 1
+ITER: 1 = 1
+REC:  1 = 1
+ITER: 1 = 1
+REC:  1 = 1
+ITER: 1 = 1
+REC:  10 = 2 2 2 2 2
+ITER: 10 = 2 2 2 2 2
+BRAK
+REC:  10 = 3 2 5
+ITER: 10 = 3 2 5
+REC:  10 = 5 5
+ITER: 10 = 5 5
+REC:  10 = 3 5 2
+ITER: 10 = 3 5 2

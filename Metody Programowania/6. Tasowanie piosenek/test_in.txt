@@ -1,0 +1,19 @@
+9
+9
+p1 p2 p3 p4 p5 p11 p12 p13 p14
+8
+p1 p2 p3 p4 p11 p12 p13 p14
+3
+p1 p2 p3
+2
+p1 q1
+4
+P1 p2 p3 p4
+5
+Avenged1 Avenged2 Avenged3 Avenged4 Avenged5
+6
+Avenged1 Avenge2 Aveng3 Aven4 Ave5 Av6
+8
+A0 Av1 Aven2 Aveng3 Avenge4 Avenged5 Avenged666 Avenged7X
+7
+Avenge2 Avenged1 Aven4 Aveng3 Av6 Ave5 Aven7
